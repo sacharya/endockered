@@ -1,0 +1,7 @@
+export SOURCE=twitter_username
+export DEST=another_twitter_username
+export QUERY=#search_query
+export CONSUMER_KEY=consumer_key
+export CONSUMER_SECRET=consumer_secret
+export ACCESS_KEY=access_key
+export ACCESS_SECRET=access_secret
